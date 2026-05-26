@@ -1,0 +1,10 @@
+#需求：往控制器中暑促Hello World，Hello Python（#是python中注释的写法，python解释器会忽略注释--快捷键是ctrl+/）
+print("Hello World")
+print("Hello Python")
+print("----------------")
+print("##################")
+print("#白日依山尽#")
+print("#黄河入海流#")
+print("#欲穷千里目#")
+print("#更上一层楼#")
+print("##################")
